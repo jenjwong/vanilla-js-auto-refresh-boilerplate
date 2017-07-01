@@ -1,8 +1,8 @@
-# vanilla-js-auto-refresh-boilerplate
-Never hit refresh ever again! Streamline rapid-prototype development using live-server.
+# Vanilla-js-auto-refresh-boilerplate
+Never hit refresh! Streamline rapid-prototype development using live-server.
 
-# Vanilla JS Rapid Prototype Boilerplate
-Basic starter files with auto-refresh!
+## Vanilla JS Rapid Prototype Boilerplate
+Basic starter files with auto-refresh! live-server watches your files and updates on save.
 
 ### Setup
 Install [live-server](https://www.npmjs.com/package/live-server) on your machine.
