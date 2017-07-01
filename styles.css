@@ -1,0 +1,9 @@
+.fun {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+}
+
+body {
+  margin: 0;
+}
