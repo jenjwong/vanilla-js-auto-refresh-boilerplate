@@ -2,7 +2,7 @@
 Never hit refresh! Streamline rapid-prototype development using live-server.
 
 ## Vanilla JS Rapid Prototype Boilerplate
-Basic starter files with auto-refresh! live-server watches your files and updates on save. Includes Normalize cdn and Google Fonts.
+Basic starter files with auto-refresh! live-server watches your files and updates on save. Includes Normalize and Google Fonts cdns.
 
 ### Setup
 Install [live-server](https://www.npmjs.com/package/live-server) on your machine.
