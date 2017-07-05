@@ -1,11 +1,7 @@
 .body-wrapper {
-  height: 100px;
-  width: 100px;
-  background-color: blue;
 }
 
 @media (min-width: 50rem) {
   .body-wrapper {
-    height: 80rem;
   }
 }
